@@ -20,8 +20,6 @@
 
 - MVC, 템플렛엔진, API, ResponseBody
 
-➡️ 섹션4. 회원 관리 예제 - 백엔드 개발
+✅ 섹션4. 회원 관리 예제 - 백엔드 개발
 
 - Optional, interface, Test
-
-✏️
