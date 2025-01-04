@@ -26,6 +26,6 @@
 
 1월 4일:
 
-➡️ 섹션5. 스프링 빈과 의존관계
+✅ 섹션5. 스프링 빈과 의존관계
 
 - Autowired, Inversion of Control
