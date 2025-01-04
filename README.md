@@ -23,3 +23,9 @@
 ✅ 섹션4. 회원 관리 예제 - 백엔드 개발
 
 - Optional, interface, Test
+
+1월 4일:
+
+➡️ 섹션5. 스프링 빈과 의존관계
+
+- Autowired, Inversion of Control
