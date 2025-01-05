@@ -8,24 +8,11 @@
 
 **(김영한 선생님)**
 
-1월 3일:
-
-✅ 섹션1. 강의 소개
-
-✅ 섹션2. 프로젝트 환경설정
-
-- thymeleaf, tomcat, Spring initializr
-
-✅ 섹션3. 스프링 웹 개발 기초
-
-- MVC, 템플렛엔진, API, ResponseBody
-
-✅ 섹션4. 회원 관리 예제 - 백엔드 개발
-
-- Optional, interface, Test
-
-1월 4일:
-
-✅ 섹션5. 스프링 빈과 의존관계
-
-- Autowired, Inversion of Control
+| 날짜      | 섹션                         | 학습 내용                                       |
+| --------- |----------------------------| -------------------------------------------- |
+| 1월 3일   | ✅ 섹션1. 강의 소개               |  완료                                         |
+|           | ✅ 섹션2. 프로젝트 환경설정           | thymeleaf, tomcat, Spring initializr        |
+|           | ✅ 섹션3. 스프링 웹 개발 기초         | MVC, 템플릿 엔진, API, ResponseBody              |
+|           | ✅ 섹션4. 회원 관리 예제 - 백엔드 개발   | Optional, interface, Test                   |
+| 1월 4일   | ✅ 섹션5. 스프링 빈과 의존관계         | Autowired, Inversion of Control             |
+| 1월 5일   | ✅ 섹션6. 회원 관리 예제 - 웹 MVC 개발 | GetMapping, PostMapping   
