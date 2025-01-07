@@ -4,6 +4,7 @@ import hello.hello_spring.domain.Member;
 import hello.hello_spring.repository.MemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Optional;
@@ -18,6 +19,7 @@ public class MemberService {
         this.memberRepository = memberRepository;
     }
 
+    @Transactional
     public Long join(Member member) {
         // 이름 중복 회원 등록 불가
         validateDuplicateMember(member);
