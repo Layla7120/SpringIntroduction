@@ -16,4 +16,4 @@
 |       | ✅ 섹션4. 회원 관리 예제 - 백엔드 개발   | Optional, interface, Test            |
 | 1월 4일 | ✅ 섹션5. 스프링 빈과 의존관계         | Autowired, Inversion of Control      |
 | 1월 5일 | ✅ 섹션6. 회원 관리 예제 - 웹 MVC 개발 | GetMapping, PostMapping              |
-| 1월 7일 | ✅ 섹션7. 스프링 DB 접근 기술        | H2 db,                               |
+| 1월 7일 | ✅ 섹션7. 스프링 DB 접근 기술        | H2 db, JdbcTemplate, JPA             |
